@@ -1,0 +1,22 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000P\u0000o\u0000r\u0000t\u0000f\u0000o\u0000l\u0000i\u0000o\u0000\r\u0000 \u0000",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sca1ey/Portfolio.git"
+  },
+  "author": "Tim Mullett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sca1ey/Portfolio/issues"
+  },
+  "homepage": "https://github.com/Sca1ey/Portfolio#readme",
+  "dependencies": {
+    "tailwindcss": "^2.1.1"
+  }
+}

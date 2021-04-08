@@ -7,12 +7,14 @@ Icon
 # Temporary files
 # ---------------
 
+/node_modules
 /media/*
 !/media/index.html
 
 # Lock files
 # ---------------
 .lock
+package-lock.json
 
 # Editors
 # ---------------
