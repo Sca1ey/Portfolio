@@ -1,0 +1,3 @@
+Title: Natours
+----
+Text: A fictional tour company. The site is built using CSS, HTML, JS, NodeJS and Express; it is hosted on the AWS Lightsail platform.

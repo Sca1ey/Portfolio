@@ -1,0 +1,3 @@
+Title: Create Health Clinic
+----
+Text: A Yorkshire baseed Nutritional Therapist. The site is built on the Kirby CMS which provides the client with a powerful and intuitive editing experience; it is hosted on the AWS Lightsail plaform.

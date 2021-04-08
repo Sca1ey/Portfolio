@@ -1,1 +1,3 @@
 Title: Home
+----
+Text: Simple yet powerful, modern and mobile-first website design for budget concious organisations

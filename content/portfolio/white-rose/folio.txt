@@ -1,0 +1,3 @@
+Title: White Rose School of Irish Dancing
+----
+Text: A small non-profit Irish Dancing school based in Barnsley and Doncaster. This is a static HTML site hosted on GitHub pages.
